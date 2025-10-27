@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge)](https://sazzadur-rahman.netlify.app)
+[![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge)](https://sazzadur.site)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sazzadur.0) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SazzadurRahman0)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/SRahman7664) 
